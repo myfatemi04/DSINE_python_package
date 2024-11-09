@@ -1,4 +1,6 @@
 **/__pycache__
 projects/dsine/checkpoints
 projects/dsine/samples/output
-
+dsine.egg-info
+build
+dist
